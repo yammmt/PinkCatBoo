@@ -1,9 +1,9 @@
 {
 	"name": "theme-pink-cat-boo-high-contrast",
 	"displayName": "Pink-Cat-Boo-High-Contrast Theme",
-	"version": "1.0.0",
+	"version": "0.1.0",
 	"publisher": "yammmt",
-	"description": "A sweet and cute theme especially for coder girls.",
+	"description": "Higher contrast theme than the original PinkCatBoo theme",
 	"icon": "icon.png",
 	"engines": {
 		"vscode": "*"
@@ -31,6 +31,7 @@
 	"keywords": [
 		"theme",
 		"pink",
+		"red",
 		"cute",
 		"dark"
 	],
